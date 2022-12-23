@@ -16,3 +16,6 @@ The `cdk.json` file tells the CDK Toolkit how to execute your app.
 Make sure to do `npm install` in the root directory as well as the lambda directory.
 
 Note: If you're using Apple M1, you would have to do `npm install --platform=linux --arch=x64 sharp` inside the lambda directory to install necessary dependencies for the lambda to work.
+
+### Article
+Follow the article here for the complete walkthrough: [SIH CDK Solution](https://vishnusblog.tech/serverless-image-handler-cdk-v2-simplified-implementation-sih-cdk-solution)
